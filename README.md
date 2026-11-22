@@ -260,14 +260,6 @@ O projeto oferece uma base para futuras pesquisas e implementações envolvendo:
 - Aplicações em próteses robóticas e tecnologias assistivas.
 - Avaliação experimental com diferentes estratégias de processamento de sinais.
 
-## Autor
-
-**Lucas Masteguim**
-
-Engenharia da Computação
-
-GitHub: [@masteguim](https://github.com/masteguim)
-
 ---
 
-*Projeto acadêmico desenvolvido para estudo e experimentação nas áreas de robótica, processamento digital de sinais e controle de sistemas robóticos.*
+*Projeto acadêmico desenvolvido para Projetos da engenharia da computação - Mackenzie*
